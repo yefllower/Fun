@@ -1,4 +1,5 @@
-A simple encoder using 3-based o, 0, O for 0, 1, 2.
+A simple encoder using 3-based 0, o, O for 0, 1, 2.
+Also good for decoding.
 Not case sensitive, ignore all non-alphabet characters. 
 0Oo000Oo00oo0oOO0Oooo!
 
