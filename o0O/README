@@ -1,0 +1,3 @@
+A simple encoder using 3-based o, 0, O for 0, 1, 2.
+Not case sensitive, ignore all non-alphabet characters. 
+
